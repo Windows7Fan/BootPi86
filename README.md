@@ -1,5 +1,22 @@
-# BootX86
-A project that allows you to boot x86 os's from a dvd drive or usb drive on a arm processor with QEMU and is supported with RPI4 and RPI5
-not sure about RPI3 though since I didnt test that and I dont have one.
+# BootPi86
+A project that allows booting x86 OS's on a RPI using QEMU.
 
-very easy and simple to get set up.
+
+
+Things to expect:
+A slow computer
+
+
+Supported physical boot devices:
+USB CD-ROM/DVD Drive
+a USB drive
+
+
+Tested RPI's:
+Raspberry Pi 4 Model B
+Raspberry Pi 400
+
+Not Tested Raspberry Pi's but should work in theory:
+Raspberry Pi 5
+Raspberry Pi 500
+Raspberry Pi 3 (Maybe??)
