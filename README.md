@@ -1,6 +1,7 @@
 # BootPi86
 <h6>A project that allows booting x86_64 OS's on a RPI using QEMU.</h6>
 
+<img src="BootPi86.png" alt=" ">
 
 <h2>Things to expect:</h2>
 <h6>A slow computer</h6>
