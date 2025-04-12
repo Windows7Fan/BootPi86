@@ -24,3 +24,14 @@
 <h6>Raspberry Pi 5</h6>
 <h6>Raspberry Pi 500</h6>
 <h6>Raspberry Pi 3 (Maybe??)</h6>
+
+
+
+
+<h2>How to resize the QEMU disk image</h2>
+<h6>Step 1: Boot the Pi</h6>
+<h6>Step 2: Press Ctrl+Alt+F to get out of fullscreen mode in qemu</h6>
+<h6>Step 3: Right click on the desktop and click "Exit"</h6>
+<h6>Step 4: Type "sudo qemu-img resize ./disk.qcow2 10G" Replace the 10 with whatever number you would like in GB (dont get rid of the G)</h6>
+<h6>Step 5: Reboot the Pi</h6>
+<h6>Default Size is 10G</h6>
