@@ -34,4 +34,4 @@
 <h6>Step 3: Right click on the desktop and click "Exit"</h6>
 <h6>Step 4: Type "sudo qemu-img resize ./disk.qcow2 10G" Replace the 10 with whatever number you would like in GB (dont get rid of the G)</h6>
 <h6>Step 5: Reboot the Pi</h6>
-<h6>Default Size is 10G</h6>
+<h6>Default Size is 32G</h6>
