@@ -1,22 +1,22 @@
 # BootPi86
-A project that allows booting x86 OS's on a RPI using QEMU.
+<h4>A project that allows booting x86 OS's on a RPI using QEMU.</h4>
 
 
 
-Things to expect:
-A slow computer
+<h2>Things to expect:</h2>
+<h4>A slow computer</h4>
 
 
-Supported physical boot devices:
-USB CD-ROM/DVD Drive
-a USB drive
+<h2>Supported physical boot devices:</h2>
+<h4>USB CD-ROM/DVD Drive</h4>
+<h4>a USB drive</h4>
 
 
-Tested RPI's:
-Raspberry Pi 4 Model B
-Raspberry Pi 400
+<h2>Tested RPI's:</h2>
+<h4>Raspberry Pi 4 Model B</h4>
+<h4>Raspberry Pi 400</h4>
 
-Not Tested Raspberry Pi's but should work in theory:
-Raspberry Pi 5
-Raspberry Pi 500
-Raspberry Pi 3 (Maybe??)
+<h2>Not Tested Raspberry Pi's but should work in theory:</h2>
+<h4>Raspberry Pi 5</h4>
+<h4>Raspberry Pi 500</h4>
+<h4>Raspberry Pi 3 (Maybe??)</h4>
