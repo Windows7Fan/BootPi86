@@ -1,5 +1,5 @@
 # BootPi86
-<h6>A project that allows booting x86 OS's on a RPI using QEMU.</h6>
+<h6>A project that allows booting x86_64 OS's on a RPI using QEMU.</h6>
 
 
 <h2>Things to expect:</h2>
