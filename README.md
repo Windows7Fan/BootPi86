@@ -43,3 +43,5 @@
 <h6>Step 4: Go to "System Options"</h6>
 <h6>Step 5: Then Navigate to "Wireless LAN"</h6>
 <h6>Step 6: Type in your SSID (your wifi name) then enter your WiFi password</h6>
+
+<h3>and look at "make sure.png"</h3>
