@@ -32,8 +32,9 @@
 <h6>Step 1: Boot the Pi</h6>
 <h6>Step 2: Press Ctrl+Alt+F to get out of fullscreen mode in QEMU and close QEMU</h6>
 <h6>Step 3: Right click on the desktop and click "Exit"</h6>
-<h6>Step 4: Type "sudo qemu-img resize ./disk.qcow2 10G" Replace the 10 with whatever number you would like in GB (dont get rid of the G)</h6>
-<h6>Step 5: Reboot the Pi</h6>
+<h6>Step 4: Type "cd vm"</h6>
+<h6>Step 5: Type "sudo qemu-img resize ./disk.qcow2 10G" Replace the 10 with whatever number you would like in GB (dont get rid of the G)</h6>
+<h6>Step 6: Reboot the Pi</h6>
 <h6>Default Size is 32G</h6>
 
 <h2>How to Connect to WiFi</h2>
